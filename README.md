@@ -33,13 +33,13 @@
 ```bash
 git clone https://github.com/HVGLER/Private-cloud-storage.git<br>
 cd Private-cloud-storage<br>
-
+```
 ### 3. 启动网盘
 
 用php内置的服务器启动：<br>
 ```bash
 php -S localhost:1234 router.php
-
+```
 随后，打开浏览器，访问localhost:1234或127.0.0.1:1234开始玩转网盘吧<br>
 我还没做管理后台敬请期待<br>
 默认的管理员账户密码是：admin<br>
