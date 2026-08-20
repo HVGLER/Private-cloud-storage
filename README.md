@@ -49,4 +49,4 @@ php -S localhost:1234 router.php
 
 
 
-所有代码由![Deepseek]([图片链接](https://ts1.tc.mm.bing.net/th/id/OIP-C.6hf8ntqFr1nEcr7aGWWcOQAAAA?r=0&rs=1&pid=ImgDetMain&o=7&rm=3))编写
+所有代码由![Deepseek](./deepseek.svg)编写
