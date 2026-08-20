@@ -1,0 +1,9 @@
+# 禁止直接访问上传目录
+Options -Indexes
+Order Deny,Allow
+Deny from all
+
+# 禁止执行PHP文件
+<FilesMatch "\.(php|phtml|php3|php4|php5)$">
+    Deny from all
+</FilesMatch>
